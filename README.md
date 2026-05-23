@@ -14,6 +14,11 @@ Data was extracted directly from a local MySQL database instance. The following 
 * **Data Filtering:** Cleaned and filtered garbage values from the `sales markets` table (such as empty strings or invalid zones).
 * **Star Schema Modeling:** Established a clean dimensional model linking transaction facts with product, customer, date, and market dimensions.
 
+## Dashboard Showcase
+Below is the interactive sales report built in Power BI Desktop:
+
+![Atliq Hardware Sales Dashboard](https://github.com/Sumaid05/Atliq-Hardware-Sales-Insights/blob/main/Dashboard%20Screenshot.png?raw=true)
+
 ## Key Insights Discovered
 * **Top Markets:** Delhi NCR and Mumbai emerged as the highest revenue-generating hubs, contributing significantly to the overall business.
 * **Revenue Trend:** Identified significant seasonal dips in specific quarters, allowing management to track shifting purchasing behaviors over the years (2017–2020).
